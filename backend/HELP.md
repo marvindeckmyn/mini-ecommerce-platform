@@ -1,8 +1,3 @@
-# Read Me First
-The following was discovered as part of building this project:
-
-* The original package name 'com.example.ecommerce-backend' is invalid and this project uses 'com.example.ecommerce_backend' instead.
-
 # Getting Started
 
 ### Reference Documentation

@@ -9,7 +9,7 @@ To demonstrate full-stack development capabilities, including REST API design, d
 ## Technologies
 
 * **Backend:**
-    * Java (JDK 17+)
+    * Java (JDK 24)
     * Spring Boot
     * Spring MVC
     * Spring Data JPA
